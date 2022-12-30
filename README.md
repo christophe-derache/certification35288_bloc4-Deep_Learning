@@ -6,7 +6,7 @@
 - **Contact**: *Christophe DERACHE*
 - **E-mail**&nbsp;&nbsp;: *christophe.derache@gmail.com*
 
-> Video link : 👉 ***************** 👈
+> Video link : 👉 https://share.vidyard.com/watch/KNTahA8XpNSU5fmfqAejFF? 👈
 
 ## AT&T Spam Detector project
 >*One of the main pain point that AT&T users are facing is constant exposure to SPAM messages. AT&T has been able to manually flag spam messages for a time, but they are looking for an automated way of detecting spams to protect their users. Your goal is to build a spam detector, that can automatically flag spams as they come based sollely on the sms' content.*
